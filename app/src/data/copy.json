@@ -1,0 +1,26 @@
+{
+    "roundover": {
+        "callout": "Great Job! Chunk has more friends on the way!",
+        "points": "points"
+    },
+    "ui": {
+        "paused": "PAUSED"  
+    },
+    "mainmenu": {
+        "callout": "Help Chunk outfit his\nZhuZhu friends in style!"
+    },
+    "help-mobile": [
+        "Tap a ZhuZhu to see what outfit they want.",
+        "Tap a rack to choose clothing from it.",
+        "Here's what you're holding. You can hold four things.",
+        "Tap your friends to give them clothing you're holding.",
+        "Use the laundry tube to get rid of stuff you don't need."
+    ],
+    "help-desktop": [
+        "Click a ZhuZhu to see what outfit they want.",
+        "Click a rack to choose clothing from it.",
+        "Here's what you're holding. You can hold four things.",
+        "Click your friends to give them clothing you're holding.",
+        "Use the laundry tube to get rid of stuff you don't need."
+    ]
+}

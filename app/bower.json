@@ -1,0 +1,13 @@
+{
+    "name": "rh-phaser-scaffold",
+    "version": "0.9.102",
+    "description": "RH Games",
+    "authors": [
+        "matt de wolfe"
+    ],
+    "dependencies": {
+        "phaser": "v2.6.2",
+        "phaser-debugger": "https://github.com/englercj/phaser-debug.git",
+        "systemjs": "https://github.com/systemjs/systemjs.git"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "required": {
+        "assets": [
+            {
+                "type": "atlas",
+                "url": "ui",
+                "resolution": 1
+            },
+            {
+                "type": "image",
+                "url": "scifi-landscape.jpg",
+                "resolution": 1
+            },
+            {
+                "type": "image",
+                "url": "scifi-landscape_copy.jpg",
+                "resolution": 1
+            },
+            {
+                "type": "image",
+                "url": "scifi-landscape_2.jpg",
+                "resolution": 1
+            },
+            {
+                "type": "sound",
+                "url": "zzp_happy_relaxing",
+                "extensions": "ogg,mp3"
+            },
+            {
+                "type": "sound",
+                "url": "game_loop",
+                "extensions": "ogg,mp3"
+            }
+        ]
+    },
+    "mainmenu": {
+        "assets": [
+            {
+                "type": "assetList",
+                "id": "required"
+            },
+            {
+                "type": "json",
+                "url": "mainmenu"
+            }
+        ]
+    },
+    "gameplay": {
+        "assets": [
+            {
+                "type": "assetList",
+                "id": "required"
+            }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+relish-phaser-project.sublime-project
+relish-phaser-project.sublime-workspace
+debug
+*.sublime-project
+*.sublime-workspace
+**/fla/RECOVER_*
+app/jspm_packages
+app/node_modules
+app/bower_components
